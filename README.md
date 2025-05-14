@@ -21,7 +21,7 @@ Welcome to the Tech Support Affiliate Marketing Campaign Guide. This project pro
 
 - Basic knowledge of Google Ads
 - Telegram account (for real-time support): `@Redfoxnet`
-- Landing page with fast load speed (example: [https://chikeny.com/](https://chikeny.com/))
+- Landing page with fast load speed (example: 
 
 ## 📂 Folder Structure
 
